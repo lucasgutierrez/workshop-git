@@ -1,0 +1,2 @@
+este é o texto do outro arquivo
+Mais uma linha neste arquivo
